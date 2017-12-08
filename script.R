@@ -4,4 +4,3 @@
 # IT苦手な人のためのWindows+gitでRStudioによるバージョン管理入門
 # http://d.hatena.ne.jp/EulerDijkstra/20130327/1364392046/
 
-# バージョン1
